@@ -1,0 +1,19 @@
+While navigating the map:
+"up": Move up
+"down": Move down
+"left": Move left
+"right": Move right
+"equip [item]": Equip that item, e.g. a "great sword".
+"take [item]": Consume your potion, e.g. a "health potion" or "anti confusion" potion.
+
+If you have found an item in your current position, type "yes" if you want to pick it up, "no" otherwise.
+If you encounter an obstacle, for example a tree or an ore, if you have the necessary equipment, you can
+mine it.
+If you encounter a furnace, and you have ore, you can make an item, for example, "bronze ore" is used to 
+make the sword of confusion.
+
+While in combat:
+"attack": attack the opponent
+"take anti confusion": take your anti confusion potion
+"take health potion": take your health potion
+"run": run away from the opponent
